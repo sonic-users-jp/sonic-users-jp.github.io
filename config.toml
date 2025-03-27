@@ -175,7 +175,7 @@ enable = false
         name = "運営への問い合わせ"
  	url = "準備中@gmail.com"
  	icon = "fa fa-envelope"
-        desc = "OMNI JP Official mailing list. "
+        desc = "SONiC USERS JP Official mailing list. "
 # [[params.links.user]]
 #	name ="Twitter"
 #	url = "https://twitter.com/omni_infra_jp"

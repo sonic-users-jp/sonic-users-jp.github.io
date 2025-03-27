@@ -1,0 +1,9 @@
+.nav-tabs .nav-link[data-icon]::before {
+  content: "";
+  background-image: url("/icons/logo.svg");
+  background-size: 1em;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.5em;
+}

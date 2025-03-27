@@ -4,6 +4,8 @@ date: 2021-03-01T11:29:34+09:00
 menu:
   main:
     weight: 10
+params:
+  icon: "custom"
 ---
 
 {{% blocks/cover color="primary" height="min" %}}
