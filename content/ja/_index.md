@@ -6,6 +6,7 @@ menu:
     weight: 10
 params:
   icon: "custom"
+  data-icon: "logo.svg"
 ---
 
 {{% blocks/cover color="primary" height="min" %}}
