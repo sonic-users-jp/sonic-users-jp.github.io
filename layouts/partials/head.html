@@ -4,7 +4,8 @@
 {{- $outputFormat := partial "outputformat.html" . -}}
 
 {{ range .AlternativeOutputFormats -}}
-<link rel="icon" type="favicon/favicon.ico" href="{{ "favicon.ico" | relURL }}">
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+<link rel="icon" href="favicon/favicon.ico" sizes="any">
 {{ end -}}
 
 {{ if and hugo.IsProduction (ne $outputFormat "print") -}}
