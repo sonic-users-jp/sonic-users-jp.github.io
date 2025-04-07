@@ -112,12 +112,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://omni-jp.github.io/"
+url_latest_version = "https://ntapss.github.io/test02/"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/omni-jp/omni-jp.github.io"
+github_repo = "https://ntapss.github.io/test02/"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/omni-jp/omni-jp.github.io"
+github_project_repo = "https://ntapss.github.io/test02/"
 
 # Specify a value here if your content directory is not in your repo's root directory
 github_subdir = ""
