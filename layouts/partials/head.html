@@ -5,6 +5,7 @@
 
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+<link rel="icon" href="/favicons/favicon.ico">
 {{ end -}}
 
 {{ if and hugo.IsProduction (ne $outputFormat "print") -}}
