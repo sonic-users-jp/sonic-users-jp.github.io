@@ -92,6 +92,7 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
+favicon = "favicon.ico"
 copyright = "SONiC Users JP"
 #privacy_policy = "https://policies.google.com/privacy"
 contact = "運営への問い合わせ: 準備中[AT]gmail.com"
