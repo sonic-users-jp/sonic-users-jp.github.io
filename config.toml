@@ -1,5 +1,5 @@
 baseURL = "https://ntApss.github.io/test"
-title = "SONiC Users JP"
+title = "SONiC USERS GROUP JAPAN"
 
 enableRobotsTXT = true
 canonifyurls = true
@@ -73,8 +73,8 @@ anchor = "smart"
 
 [languages]
 [languages.ja.params]
-title = "SONiC Users JP"
-description = "Docs for SONiC Users JP"
+title = "SONiC USERS GROUP JAPAN"
+description = "Docs for SONiC USERS GROUP JAPAN"
 languageName ="日本語"
 # Weight used for sorting.
 weight = 1
@@ -177,7 +177,7 @@ enable = false
         name = "運営への問い合わせ"
  	url = "準備中@gmail.com"
  	icon = "fa fa-envelope"
-        desc = "SONiC USERS JP Official mailing list. "
+        desc = "SONiC USERS GROUP JAPAN Official mailing list. "
 # [[params.links.user]]
 #	name ="Twitter"
 #	url = "https://twitter.com/omni_infra_jp"
