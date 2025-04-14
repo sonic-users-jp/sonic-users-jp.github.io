@@ -1,4 +1,4 @@
-baseURL = "https://ntApss.github.io/test0202"
+baseURL = "https://ntApss.github.io/test02"
 title = "SONiC USERS GROUP JAPAN"
 
 enableRobotsTXT = true
@@ -92,8 +92,8 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-favicon = "favicon.ico"
-copyright = "SONiC Users JP"
+favicon = "favicons/favicon.ico"
+copyright = "SONiC USERS GROUP JP"
 
 #privacy_policy = "https://policies.google.com/privacy"
 contact = "運営への問い合わせ: 準備中[AT]gmail.com"
