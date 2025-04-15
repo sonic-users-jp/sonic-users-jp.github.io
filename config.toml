@@ -92,10 +92,8 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-favicon = "favicons/favicon.ico"
+favicon = "/favicons/favicon.ico"
 copyright = "SONiC USERS GROUP JP"
-
-#privacy_policy = "https://policies.google.com/privacy"
 contact = "運営への問い合わせ: 準備中[AT]gmail.com"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
@@ -198,7 +196,7 @@ enable = false
 #	name = "Slack"
 #	url = "https://join.slack.com/t/omni-jp/shared_invite/zt-nrwl8rw3-gZIS1FckzeQ2efagTrWUpA"
 #	icon = "fab fa-slack"
- #       desc = "Chat with other project members"
+#       desc = "Chat with other project members"
 # [[params.links.developer]]
 	# name = "Developer mailing list"
 	# url = "https://example.org/mail"
