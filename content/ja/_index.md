@@ -33,7 +33,7 @@ menu:
 情報交換や雑談，質問をする場になります．  
 お気軽にご参加ください．
 
-[Slack Workspaceに参加する(準備中)](https://join.slack.com/t/sonic-users-jp/shared_invite/zt-2yibs18xg-5uUIGZw68smw6a4nQ4EmnA)
+[Slack Workspaceに参加する](https://join.slack.com/t/sonic-users-jp/shared_invite/zt-2yibs18xg-5uUIGZw68smw6a4nQ4EmnA)
 
 {{% /blocks/feature %}}
 
