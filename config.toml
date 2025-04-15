@@ -178,7 +178,7 @@ enable = false
         desc = "SONiC USERS GROUP JAPAN Official mailing list. "
 # [[params.links.user]]
 #	name ="Twitter"
-#	url = "https://twitter.com/omni_infra_jp"
+#	url = "https://twitter.com/"
 #	icon = "fab fa-twitter"
 #        desc = "Follow us on Twitter to get the latest news!"
 # [[params.links.user]]
@@ -189,12 +189,12 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 #[[params.links.user]]
 #	name = "GitHub"
-#	url = "https://github.com/omni-jp"
+#	url = "https://github.com/"
 #	icon = "fab fa-github"
 #        desc = "Development takes place here!"
 #[[params.links.user]]
 #	name = "Slack"
-#	url = "https://join.slack.com/t/omni-jp/shared_invite/zt-nrwl8rw3-gZIS1FckzeQ2efagTrWUpA"
+#	url = "https://join.slack.com/"
 #	icon = "fab fa-slack"
 #       desc = "Chat with other project members"
 # [[params.links.developer]]
