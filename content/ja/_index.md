@@ -15,12 +15,10 @@ menu:
 {{% blocks/section color="white"%}}
 
 {{% blocks/feature title="Events" %}}
-非定期でMeetupを開催予定です．  
+不定期でWorkshopを開催予定です．  
 発表者も随時受け付けています．  
 
 [SONiC USERS GROUP JAPAN COMPASS](https://sonic.connpass.com/)
-
-不定期でその他のMeetingも実施してます.
 
 [過去のイベント](/events)
 
@@ -44,7 +42,7 @@ OSS活動の場として準備中です．
 {{% /blocks/feature %}}
 
 {{% blocks/feature title="YouTube Channel" icon="fab fa-youtube" %}}
-Meetup配信用のChannelです．  
+Workshop配信用のChannelです．  
 
 [SONiC USERS GROUP JAPAN YouTube Channel](https://www.youtube.com/@sonic-japan/videos)
 
