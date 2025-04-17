@@ -1,5 +1,5 @@
 ---
-title: "SONiC USERS GROUP JAPAN Meetup#1"
+title: "SONiC USERS GROUP JAPAN Workshop #1"
 date: 2024-05-24
 draft: false
 youtube: KK0gFuWCu5U

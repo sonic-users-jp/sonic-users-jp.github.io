@@ -1,7 +1,7 @@
 ---
 title: "Events"
 draft: false
-type: "meetup_summary"
+type: "workshop_summary"
 notoc: true
 menu:
   main:
